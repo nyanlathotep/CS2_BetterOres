@@ -1,0 +1,30 @@
+name = "ore";
+material = "rock";
+stepSound = "stone";
+creativeTab = "buildingBlocks";
+
+addToCreative[0] = true;
+hardness[0] = 3.0;
+toolClass[0] = "pickaxe";
+harvestLevel[0] = 2;
+drop[0] = "BetterOres:chunk 1";
+textureFileXP[0] = "testore1poor.png";
+textureFileXN[0] = "testore1poor.png";
+textureFileYP[0] = "testore1poor.png";
+textureFileYN[0] = "testore1poor.png";
+textureFileZP[0] = "testore1poor.png";
+textureFileZN[0] = "testore1poor.png";
+fortuneModifier[0] = 1;
+
+addToCreative[1] = true;
+hardness[1] = 3.0;
+toolClass[1] = "pickaxe";
+harvestLevel[1] = 2;
+drop[1] = "BetterOres:chunk 2-4";
+textureFileXP[1] = "testore1.png";
+textureFileXN[1] = "testore1.png";
+textureFileYP[1] = "testore1.png";
+textureFileYN[1] = "testore1.png";
+textureFileZP[1] = "testore1.png";
+textureFileZN[1] = "testore1.png";
+fortuneModifier[1] = 1;
