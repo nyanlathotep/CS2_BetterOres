@@ -1,0 +1,30 @@
+name = "ore3";
+material = "rock";
+stepSound = "stone";
+creativeTab = "buildingBlocks";
+
+addToCreative[0] = true;
+hardness[0] = 3.0;
+toolClass[0] = "pickaxe";
+harvestLevel[0] = 1;
+drop[0] = "BetterOres:chunk3:0 2-4";
+textureFileXP[0] = "oreCassiteritePoor.png";
+textureFileXN[0] = "oreCassiteritePoor.png";
+textureFileYP[0] = "oreCassiteritePoor.png";
+textureFileYN[0] = "oreCassiteritePoor.png";
+textureFileZP[0] = "oreCassiteritePoor.png";
+textureFileZN[0] = "oreCassiteritePoor.png";
+fortuneModifier[0] = 1;
+
+addToCreative[1] = true;
+hardness[1] = 3.0;
+toolClass[1] = "pickaxe";
+harvestLevel[1] = 1;
+drop[1] = "BetterOres:chunk3:1 1";
+textureFileXP[1] = "oreCassiterite.png";
+textureFileXN[1] = "oreCassiterite.png";
+textureFileYP[1] = "oreCassiterite.png";
+textureFileYN[1] = "oreCassiterite.png";
+textureFileZP[1] = "oreCassiterite.png";
+textureFileZN[1] = "oreCassiterite.png";
+fortuneModifier[1] = 1;
