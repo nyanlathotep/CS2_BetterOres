@@ -25,3 +25,6 @@ textureFile[6] = "dustSilverSmall.png";
 
 addToCreative[7] = true;
 textureFile[7] = "dustTinSmall.png";
+
+addToCreative[8] = true;
+textureFile[8] = "sandPile.png";
