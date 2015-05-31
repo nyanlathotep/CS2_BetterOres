@@ -32,6 +32,8 @@ tile.ore214.name=Poor Stannite
 tile.ore215.name=Stannite
 tile.ore30.name=Poor Cassiterite
 tile.ore31.name=Cassiterite
+tile.ore32.name=Lignite
+tile.ore33.name=Anthracite
 
 item.chunk0.name=Small Tetrahedrite Chunk
 item.chunk1.name=Tetrahedrite Chunk
@@ -69,9 +71,9 @@ item.chunk30.name=Small Cassiterite Chunk
 item.chunk31.name=Cassiterite Chunk
 item.chunk32.name=Lignite
 item.chunk33.name=Anthracite
-item.chunk34.name=Small Lignite
-item.chunk35.name=Small Anthracite
-item.chunk36.name=Small Coke
+item.chunk34.name=Mini Lignite
+item.chunk35.name=Mini Anthracite
+item.chunk36.name=Mini Coke
 
 item.smallDust0.name=Small Copper Dust
 item.smallDust1.name=Small Gold Dust
