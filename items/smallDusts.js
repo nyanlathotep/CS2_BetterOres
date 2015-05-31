@@ -25,3 +25,27 @@ textureFile[6] = "dustSilverSmall.png";
 
 addToCreative[7] = true;
 textureFile[7] = "dustTinSmall.png";
+
+addToCreative[8] = true;
+textureFile[8] = "sandPile.png";
+
+addToCreative[9] = true;
+textureFile[9] = "smallSlag.png";
+
+addToCreative[10] = true;
+textureFile[10] = "smallSlagRich.png";
+
+addToCreative[11] = true;
+textureFile[11] = "smallCinnabar.png";
+
+addToCreative[12] = true;
+textureFile[12] = "sandPileRed.png";
+
+addToCreative[13] = true;
+textureFile[13] = "dustBronzeSmall.png";
+
+addToCreative[14] = true;
+textureFile[14] = "dustElectrumSmall.png";
+
+addToCreative[15] = true;
+textureFile[15] = "dustInvarSmall.png";
