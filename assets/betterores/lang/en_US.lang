@@ -67,6 +67,11 @@ item.chunk214.name=Small Stannite Chunk
 item.chunk215.name=Stannite Chunk
 item.chunk30.name=Small Cassiterite Chunk
 item.chunk31.name=Cassiterite Chunk
+item.chunk32.name=Lignite
+item.chunk33.name=Anthracite
+item.chunk34.name=Small Lignite
+item.chunk35.name=Small Anthracite
+item.chunk36.name=Small Coke
 
 item.smallDust0.name=Small Copper Dust
 item.smallDust1.name=Small Gold Dust
