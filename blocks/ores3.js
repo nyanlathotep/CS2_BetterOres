@@ -81,3 +81,27 @@ textureFileYN[5] = "oreEmeraldPoor.png";
 textureFileZP[5] = "oreEmeraldPoor.png";
 textureFileZN[5] = "oreEmeraldPoor.png";
 fortuneModifier[5] = 1;
+
+addToCreative[6] = true;
+hardness[6] = 3.0;
+toolClass[6] = "pickaxe";
+harvestLevel[6] = 0;
+drop[6] = "BetterOres:chunk3:6";
+textureFileXP[6] = "oreLigniteBlock.png";
+textureFileXN[6] = "oreLigniteBlock.png";
+textureFileYP[6] = "oreLigniteBlock.png";
+textureFileYN[6] = "oreLigniteBlock.png";
+textureFileZP[6] = "oreLigniteBlock.png";
+textureFileZN[6] = "oreLigniteBlock.png";
+
+addToCreative[7] = true;
+hardness[7] = 3.0;
+toolClass[7] = "pickaxe";
+harvestLevel[7] = 1;
+drop[7] = "BetterOres:chunk3:7";
+textureFileXP[7] = "oreAnthraciteBlock.png";
+textureFileXN[7] = "oreAnthraciteBlock.png";
+textureFileYP[7] = "oreAnthraciteBlock.png";
+textureFileYN[7] = "oreAnthraciteBlock.png";
+textureFileZP[7] = "oreAnthraciteBlock.png";
+textureFileZN[7] = "oreAnthraciteBlock.png";
