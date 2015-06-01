@@ -34,6 +34,8 @@ tile.ore30.name=Poor Cassiterite
 tile.ore31.name=Cassiterite
 tile.ore32.name=Lignite
 tile.ore33.name=Anthracite
+tile.ore34.name=Poor Diamond Ore
+tile.ore35.name=Poor Emerald Ore
 
 item.chunk0.name=Small Tetrahedrite Chunk
 item.chunk1.name=Tetrahedrite Chunk
