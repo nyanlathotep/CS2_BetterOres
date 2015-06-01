@@ -3,6 +3,13 @@ mod.addShapelessRecipe('BetterOres:chunk3:4 4', 'BetterOres:chunk3:2');
 mod.addShapelessRecipe('BetterOres:chunk3:5 16', 'BetterOres:chunk3:3');
 mod.addShapelessRecipe('BetterOres:chunk3:6 16', 'Railcraft:fuel.coke');
 
+//Coal Storage Cubes.  Guaranteed to be 100% free of curves.
+mod.addShapelessRecipe('BetterOres:ores3:6', 'BetterOres:chunks3:2', 'BetterOres:chunks3:2', 'BetterOres:chunks3:2', 'BetterOres:chunks3:2', 'BetterOres:chunks3:2', 'BetterOres:chunks3:2', 'BetterOres:chunks3:2', 'BetterOres:chunks3:2', 'BetterOres:chunks3:2');
+mod.addShapelessRecipe('BetterOres:ores3:7', 'BetterOres:chunk3:3', 'BetterOres:chunk3:3', 'BetterOres:chunk3:3', 'BetterOres:chunk3:3', 'BetterOres:chunk3:3', 'BetterOres:chunk3:3', 'BetterOres:chunk3:3', 'BetterOres:chunk3:3', 'BetterOres:chunk3:3');
+//100% de-constructable!  Guaranteed or your coal back.
+mod.addShapelessRecipe('BetterOres:chunk3:2 9', 'BetterOres:ores3:6');
+mod.addShapelessRecipe('BetterOres:chunk3:3 9', 'BetterOres:ores3:7');
+
 // gem-nugget conversion
 mod.addShapelessRecipe('minecraft:diamond', ':nuggetDiamond', ':nuggetDiamond', ':nuggetDiamond', ':nuggetDiamond', ':nuggetDiamond', ':nuggetDiamond', ':nuggetDiamond', ':nuggetDiamond', ':nuggetDiamond');
 mod.addShapelessRecipe('BetterOres:chunk3:7 9', ':gemDiamond');
