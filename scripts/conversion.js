@@ -34,11 +34,6 @@ mod.addShapelessRecipe('dustBronzeSmall 9', ':dustBronze');
 mod.addShapelessRecipe('dustElectrumSmall 9', ':dustElectrum');
 mod.addShapelessRecipe('dustInvarSmall 9', ':dustInvar');
 
-// dust pile alloying
-mod.addShapelessRecipe('dustBronzeSmall 4', 'dustCopperSmall', 'dustCopperSmall', 'dustCopperSmall', 'dustTinSmall');
-mod.addShapelessRecipe('dustElectrumSmall 2', 'dustSilverSmall', 'dustGoldSmall');
-mod.addShapelessRecipe('dustInvarSmall 3', 'dustIronSmall', 'dustIronSmall', 'dustNickelSmall');
-
 // other material conversions
 mod.addShapelessRecipe('sandWhite', 'sandPile', 'sandPile', 'sandPile', 'sandPile', 'sandPile', 'sandPile', 'sandPile', 'sandPile', 'sandPile');
 mod.addShapelessRecipe('sandPile 9', 'sandWhite');

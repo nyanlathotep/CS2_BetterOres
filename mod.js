@@ -11,3 +11,4 @@ mod.loadScript('alias.js');
 mod.loadScript('fuel.js');
 mod.loadScript('oredict.js');
 mod.loadScript('conversion.js');
+mod.loadScript('utility.js');
