@@ -40,7 +40,7 @@ textureFileYP[2] = "oreLignite.png";
 textureFileYN[2] = "oreLignite.png";
 textureFileZP[2] = "oreLignite.png";
 textureFileZN[2] = "oreLignite.png";
-fortuneModifier[2] = 0;
+fortuneModifier[2] = 1;
 
 addToCreative[3] = true;
 hardness[3] = 3.0;
