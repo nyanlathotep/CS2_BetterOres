@@ -1,3 +1,5 @@
+mod.addCreativeTab("BetterOres", "BetterOres:chunk:5");
+
 mod.addBlock('ores.js', 'normal');
 mod.addBlock('ores2.js', 'normal');
 mod.addBlock('ores3.js', 'normal');

@@ -1,7 +1,7 @@
 name = "ore2";
 material = "rock";
 stepSound = "stone";
-creativeTab = "buildingBlocks";
+creativeTab = "BetterOres";
 
 addToCreative[0] = true;
 hardness[0] = 3.0;
