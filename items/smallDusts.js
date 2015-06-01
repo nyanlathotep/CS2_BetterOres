@@ -1,5 +1,5 @@
 name = "smallDust";
-creativeTab = "materials";
+creativeTab = "BetterOres";
 maxStack = 64;
 
 addToCreative[0] = true;
