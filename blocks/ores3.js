@@ -40,7 +40,7 @@ textureFileYP[2] = "oreLignite.png";
 textureFileYN[2] = "oreLignite.png";
 textureFileZP[2] = "oreLignite.png";
 textureFileZN[2] = "oreLignite.png";
-fortuneModifier[2] = 1;
+fortuneModifier[2] = 0;
 
 addToCreative[3] = true;
 hardness[3] = 3.0;
@@ -54,3 +54,30 @@ textureFileYN[3] = "oreAnthracite.png";
 textureFileZP[3] = "oreAnthracite.png";
 textureFileZN[3] = "oreAnthracite.png";
 fortuneModifier[3] = 1;
+
+addToCreative[4] = true;
+hardness[4] = 3.0;
+toolClass[4] = "pickaxe";
+harvestLevel[4] = 2;
+drop[4] = "BetterOres:chunk3:7 2-3";
+textureFileXP[4] = "oreDiamondPoor.png";
+textureFileXN[4] = "oreDiamondPoor.png";
+textureFileYP[4] = "oreDiamondPoor.png";
+textureFileYN[4] = "oreDiamondPoor.png";
+textureFileZP[4] = "oreDiamondPoor.png";
+textureFileZN[4] = "oreDiamondPoor.png";
+fortuneModifier[4] = 1;
+
+
+addToCreative[5] = true;
+hardness[5] = 3.0;
+toolClass[5] = "pickaxe";
+harvestLevel[5] = 2;
+drop[5] = "BetterOres:chunk3:8 2-3";
+textureFileXP[5] = "oreEmeraldPoor.png";
+textureFileXN[5] = "oreEmeraldPoor.png";
+textureFileYP[5] = "oreEmeraldPoor.png";
+textureFileYN[5] = "oreEmeraldPoor.png";
+textureFileZP[5] = "oreEmeraldPoor.png";
+textureFileZN[5] = "oreEmeraldPoor.png";
+fortuneModifier[5] = 1;

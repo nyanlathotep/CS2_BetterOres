@@ -22,3 +22,9 @@ textureFile[5] = "coalAnthraciteSmall.png";
 
 addToCreative[6] = true;
 textureFile[6] = "coalCokeSmall.png";
+
+addToCreative[7] = true;
+textureFile[7] = "nuggetDiamond.png";
+
+addToCreative[8] = true;
+textureFile[8] = "nuggetEmerald.png";
