@@ -11,3 +11,4 @@ mod.addRecipe('minecraft:clock', 3, 3, 0, 'minecraft:gold_ingot', 0, 'minecraft:
 
 mod.addRecipe('minecraft:torch 2', 1, 2, 'BetterOres:chunk3:2', ':stickWood');
 mod.addRecipe('minecraft:torch 8', 1, 2, 'BetterOres:chunk3:3', ':stickWood');
+mod.addRecipe('minecraft:saddle', 3, 3, 'minecraft:string', 'minecraft:leather', 'minecraft:string', 'minecraft:leather', 'minecraft:air', 'minecraft:leather', ':nuggetIron', 'minecraft:air', ':nuggetIron');
