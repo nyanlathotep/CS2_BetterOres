@@ -6,8 +6,8 @@ mod.addShapelessRecipe('dustInvarSmall 3', 'dustIronSmall', 'dustIronSmall', 'du
 mod.removeRecipesByResult('minecraft:compass');
 mod.removeRecipesByResult('minecraft:clock');
 
-mod.addRecipe('minecraft:compass', 3, 3, 0, 'minecraft:iron_ingot', 0, 'minecraft:iron_ingot', 'BetterOres:chunk:10', 'minecraft:iron_ingot', 0, 'minecraft:iron_ingot', 0);
-mod.addRecipe('minecraft:clock', 3, 3, 0, 'minecraft:gold_ingot', 0, 'minecraft:gold_ingot', 'BetterOres:chunk:10', 'minecraft:gold_ingot', 0, 'minecraft:gold_ingot', 0);
+mod.addRecipe('minecraft:compass', 3, 3, 'minecraft:air', 'minecraft:iron_ingot', 'minecraft:air', 'minecraft:iron_ingot', 'BetterOres:chunk:10', 'minecraft:iron_ingot', 'minecraft:air', 'minecraft:iron_ingot', 'minecraft:air');
+mod.addRecipe('minecraft:clock', 3, 3, 'minecraft:air', 'minecraft:gold_ingot', 'minecraft:air', 'minecraft:gold_ingot', 'BetterOres:chunk:10', 'minecraft:gold_ingot', 'minecraft:air', 'minecraft:gold_ingot', 'minecraft:air');
 
 mod.addRecipe('minecraft:torch 2', 1, 2, 'BetterOres:chunk3:2', ':stickWood');
 mod.addRecipe('minecraft:torch 8', 1, 2, 'BetterOres:chunk3:3', ':stickWood');
